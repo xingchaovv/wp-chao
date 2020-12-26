@@ -1,5 +1,7 @@
 <?php
-namespace ChaoWpPlugin;
+namespace com\xingchaovv\wp\chao\hooks;
+
+use com\xingchaovv\wp\chao\util\Read;
 
 class PostQrCodeFilter
 {

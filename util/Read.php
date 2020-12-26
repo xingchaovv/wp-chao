@@ -1,5 +1,5 @@
 <?php
-namespace ChaoWpPlugin;
+namespace com\xingchaovv\wp\chao\util;
 
 class Read
 {
